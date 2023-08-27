@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/next.js-00000?style=for-the-badge&logo=next.js&logoColor=black">
 <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=black">
 <img src="https://img.shields.io/badge/recoil-3178C6?style=for-the-badge&logo=recoil&logoColor=white">
+<img src="https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white">
+<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 
 #
 
